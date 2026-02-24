@@ -1,39 +1,39 @@
-📌 Sales Data Analysis Project
-📖 Project Overview
+Sales Data Analysis Project
+  Project Overview
 
 
-This project analyzes company sales data using Python and Pandas.
+"This project analyzes company sales data using Python and Pandas".
 
 The goal is to extract business insights such as:
 
-Total Revenue and Profit
+- Total Revenue and Profit
 
-Top performing products
+- Top performing products
 
-Regional performance
+- Regional performance
 
-Promotion impact
+- Promotion impact
 
-Weekday vs Weekend performance
+- Weekday vs Weekend performance
 
-Correlation analysis
-
-
-🛠 Technologies Used
-
-Python
-
-Pandas
-
-Excel
+- Correlation analysis
 
 
-📊 Key Features
+  Technologies Used
 
-✔ Data cleaning
-✔ KPI calculation
-✔ Product analysis
-✔ Region performance analysis
-✔ Promotion impact analysis
-✔ Time-based analysis
-✔ Correlation matrix
+- Python
+
+- Pandas
+
+- Excel
+
+
+  Key Features
+
+- Data cleaning
+- KPI calculation
+- Product analysis
+- Region performance analysis
+- Promotion impact analysis
+- Time-based analysis
+- Correlation matrix
