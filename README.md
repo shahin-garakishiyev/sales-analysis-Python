@@ -1,6 +1,7 @@
 📌 Sales Data Analysis Project
 📖 Project Overview
 
+
 This project analyzes company sales data using Python and Pandas.
 
 The goal is to extract business insights such as:
@@ -17,6 +18,7 @@ Weekday vs Weekend performance
 
 Correlation analysis
 
+
 🛠 Technologies Used
 
 Python
@@ -24,6 +26,7 @@ Python
 Pandas
 
 Excel
+
 
 📊 Key Features
 
